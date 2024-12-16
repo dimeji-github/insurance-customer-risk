@@ -20,6 +20,7 @@ Hierarchical clustering was applied to segment policyholders into groups based o
 - Clustering was performed to create 5 distinct customer groups.
 
 **Key Insights**
+
 Key Insights by Group:
 **Group 1:**
 - Higher quoted payments
